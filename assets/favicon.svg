@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Ícone: duas faixas da trajetória, estudo e trabalho -->
+  <style>
+    .p { fill: #F4F1EA } .t { stroke: #5C5850 } .a { stroke: #1D5864; fill: #1D5864 }
+    @media (prefers-color-scheme: dark) { .p { fill: #23211D } .t { stroke: #ABA497 } .a { stroke: #82B9C2; fill: #82B9C2 } }
+  </style>
+  <rect class="p" width="32" height="32" rx="3"/>
+  <line class="t" x1="6" y1="11" x2="15" y2="11" stroke-width="2.5"/>
+  <line class="a" x1="13" y1="21" x2="28" y2="21" stroke-width="3"/>
+  <circle class="a" cx="13" cy="21" r="3"/>
+  <circle class="p t" cx="6" cy="11" r="3" stroke-width="2"/>
+</svg>
